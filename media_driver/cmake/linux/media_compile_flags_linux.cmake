@@ -31,7 +31,7 @@ set(MEDIA_COMPILER_FLAGS_COMMON
     -Wno-narrowing
     -Wno-overflow
     -Wno-parentheses
-    -Werror=implicit-function-declaration
+    #-Werror=implicit-function-declaration
     -Werror=address
     -Werror=format-security
     -Werror=non-virtual-dtor
